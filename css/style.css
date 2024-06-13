@@ -1,0 +1,41 @@
+
+body{
+    background-color: white;
+}
+
+h1{
+    color: #fff;
+}
+
+.painel{
+    margin: auto;
+    width: 1000px;
+    height: 500px;
+    background-color: #c509a6;
+    border-radius: 20px;
+    text-align: center;
+    padding-top: 50px;
+    font-family: cursive;
+
+
+}
+#sim{
+    height: 40px;
+    width: 60px;
+    background-color: rgb(255, 0, 0);
+    border: 2px solid #fff;
+    border-radius: 10px;
+    color: white;
+    margin-left: -120px;
+
+}
+#não{
+    position: absolute;
+    height: 40px;
+    width: 100px;
+    background-color: rgb(255, 0, 0);
+    border: 2px solid #fff;
+    border-radius: 10px;
+    color: white;
+    margin-left: 10px;
+}
